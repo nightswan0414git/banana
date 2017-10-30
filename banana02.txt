@@ -3,7 +3,3 @@ two
 two
 two
 two
-
-base
-base
-base
