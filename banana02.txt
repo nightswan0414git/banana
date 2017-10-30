@@ -7,7 +7,3 @@ two
 base
 base
 base
-
-apple 
-apple
-apple
